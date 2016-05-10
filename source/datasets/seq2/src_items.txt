@@ -1,0 +1,49 @@
+Bird2	OCC, DEF, FM, IPR, OPR
+BlurCar1	MB, FM
+BlurCar3	MB, FM
+BlurCar4	MB, FM
+Board	SV, MB, FM, OPR, OV, BC
+Bolt2	DEF, BC
+Boy	SV, MB, FM, IPR, OPR
+Car2	IV, SV, MB, FM, BC
+Car24	IV, SV, BC
+Coke	IV, OCC, FM, IPR, OPR, BC
+Coupon	OCC, BC
+Crossing	SV, DEF, FM, OPR, BC
+Dancer	SV, DEF, IPR, OPR
+Dancer2	DEF
+David2	IPR, OPR
+David3	OCC, DEF, OPR, BC
+Dog	SV, DEF, OPR
+Dog1	SV, IPR, OPR
+Doll	IV, SV, OCC, IPR, OPR
+FaceOcc1	OCC
+FaceOcc2	IV, OCC, IPR, OPR
+Fish	IV
+FleetFace	SV, DEF, MB, FM, IPR, OPR
+Football1	IPR, OPR, BC
+Freeman1	SV, IPR, OPR
+Freeman3	SV, IPR, OPR
+Girl2	SV, OCC, DEF, MB, OPR
+Gym	SV, DEF, IPR, OPR
+Human2	IV, SV, MB, OPR
+Human5	SV, OCC, DEF
+Human7	IV, SV, OCC, DEF, MB, FM
+Human8	IV, SV, DEF
+Jogging	OCC, DEF, OPR
+KiteSurf	IV, OCC, IPR, OPR
+Lemming	IV, SV, OCC, FM, OPR, OV
+Man	IV
+Mhyang	IV, DEF, OPR, BC
+MountainBike	IPR, OPR, BC
+Rubik	SV, OCC, IPR, OPR
+Singer1	IV, SV, OCC, OPR
+Skater	SV, DEF, IPR, OPR
+Skater2	SV, DEF, FM, IPR, OPR
+Subway	OCC, DEF, BC
+Suv	OCC, IPR, OV
+Tiger1	IV, OCC, DEF, MB, FM, IPR, OPR
+Toy	SV, FM, IPR, OPR
+Trans	IV, SV, OCC, DEF
+Twinnings	SV, OPR
+Vase	SV, FM, IPR

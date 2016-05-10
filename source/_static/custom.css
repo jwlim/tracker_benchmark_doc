@@ -1,0 +1,103 @@
+@media all and (min-width: 50px)   {  body  { font-size:0.1em;  } }
+@media all and (min-width: 100px)  {  body  { font-size:0.2em;  } }
+@media all and (min-width: 200px)  {  body  { font-size:0.4em;  } }
+@media all and (min-width: 300px)  {  body  { font-size:0.6em;  } }
+@media all and (min-width: 400px)  {  body  { font-size:0.8em;  } }
+@media all and (min-width: 500px)  {  body  { font-size:1.0em;  } }
+@media all and (min-width: 600px)  {  body  { font-size:1.2em;  } }
+@media all and (min-width: 700px)  {  body  { font-size:1.4em;  } }
+@media all and (min-width: 800px)  {  body  { font-size:1.6em;  } }
+
+
+h1{
+  font-size : 135%;
+  color: #527bbd;
+  border-bottom: 1px solid #aaaaaa;
+}
+
+h2{
+  font-size : 120%;
+  color: #527bbd;
+}
+
+hr{
+  border: 0;
+  border-top: 1px solid black;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+/*
+#toptitle{
+   text-align : center;
+   margin-bottom : 30px;
+}
+
+#toptitle > h1{
+   font-size: 300%;
+   color: #527bbd;
+   font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+}
+*/
+
+#subtitle > a{
+  font-size: 150%;
+  color: #224b8d;
+}
+
+#toptitle{
+  text-align : center;
+  margin-top : 20px;
+  margin-bottom : 20px;
+}
+
+
+#title {
+  color: #527bbd;
+  font-size: 300%;
+  font-weight: bold;
+}
+
+#datasets .last{
+  font-size : 75%;
+}
+
+.rank1{
+  font-weight: bold;
+  color: red;
+}
+
+.rank2{
+  font-weight: bold;
+  color: green;
+}
+
+.rank3{
+  font-weight: bold;
+  color: blue;
+}
+
+.rank4{
+  font-weight: bold;
+  color: cyan;
+}
+
+.rank5{
+  font-weight: bold;
+  color: magenta;
+}
+
+.download-pdf{
+  margin-left:10px;
+}
+
+#tb-50-sequences img{
+  max-width : 148px;
+  max-height : 111px;
+}
+
+#test-results img{
+  max-width : 293px;
+  max-height : 247;
+}
+
