@@ -73,9 +73,7 @@ if errorlevel 9009 (
 
 
 if "%1" == "html" (
-	if "%2" == "py" (
-		python scripts/make_site.py
-	)
+	python scripts/make_site.py
 	%SPHINXBUILD% -b html %ALLSPHINXOPTS% %BUILDDIR%
 	if errorlevel 1 exit /b 1
 	echo.
